@@ -1,0 +1,6 @@
+{
+  "name": "RoleFit - Resume & Job Description Matcher",
+  "description": "Analyze job match score and keyword density against job descriptions, identify missing skills and requirements, and export optimized resumes and cover letters to PDF or Google Docs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
